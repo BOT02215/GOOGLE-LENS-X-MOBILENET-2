@@ -1,0 +1,64 @@
+.image {
+    background-color: gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    box-shadow: 0px 5px 5px black;
+    width: 1450px;
+    height: 500px;
+}
+
+#google_lensResult {
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+#mobilenetResult {
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin-left: 150px;
+}
+
+#google_lens_VS_mobilenet {
+    background-color: cadetblue;
+    text-align: center;
+    width: 1520px;
+    height: 30px;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 0px;
+    font-size: 20px;
+    position: fixed;
+}
+
+.img-responsive {
+    height: 300px;
+    border-radius: 30px;
+}
+
+#google_lens {
+    height: 200px;
+}
+
+.image1, .image2, .image3, .image4, .image5 {
+    float: none
+}
+
+#mobilenet_logo {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+b {
+    color: blueviolet;
+}
+
+span {
+    color: red;
+}
